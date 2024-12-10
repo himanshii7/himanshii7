@@ -37,6 +37,9 @@ I'm currently pursuing a **BS in CSIT**, and I'm a passionate **Tech Enthusiast*
 ![](https://github-readme-streak-stats.herokuapp.com/?user=himanshii7&theme=radical&hide_border=false)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshii7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=himanshii7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=himanshii7&icon=0&color=6)](https://visitcount.itsvg.in)
