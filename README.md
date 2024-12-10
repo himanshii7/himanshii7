@@ -1,4 +1,4 @@
-# Hey, I'm Himanshi Gaire! 👋
+# Hey, I'm Himanshi ! 👋
 
 I'm a passionate **Tech Enthusiast** 🚀 with a keen interest in **Cybersecurity** 🛡️ and **Machine Learning** 🤖.
 
