@@ -1,6 +1,6 @@
 # Hey, I'm Himanshi Gaire! 👋
 
-I'm currently pursuing a **BS in CSIT**, and I'm a passionate **Tech Enthusiast** 🚀 with a keen interest in **Cybersecurity** 🛡️ and **Machine Learning** 🤖.
+I'm a passionate **Tech Enthusiast** 🚀 with a keen interest in **Cybersecurity** 🛡️ and **Machine Learning** 🤖.
 
 ---
 
